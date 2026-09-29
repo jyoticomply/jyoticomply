@@ -5,12 +5,12 @@ export const site = {
   brandMessage: ['Partner', 'Comply', 'Grow'],
   description:
     'HR, payroll, tax and statutory compliance support for employers who would rather run their business than chase deadlines.',
-  phone: '+91 98221 04563',
-  phoneHref: '+919822104563',
-  email: 'hello@jyotihrcompliance.in',
+  phone: '+91 8858583815',
+  phoneHref: '+918858583815',
+  email: 'jyoticomply@gmail.com',
   address: {
-    line1: 'Office 402, Pinnacle Business Park',
-    line2: 'Baner Road, Pune, Maharashtra 411045',
+    line1: 'New Delhi',
+    line2: 'India',
   },
   hours: 'Monday – Saturday, 9:30 AM – 6:30 PM IST',
 } as const
